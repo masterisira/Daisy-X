@@ -1,7 +1,7 @@
 from pyrogram import filters
 
 from DaisyX import pbot
-from DaisyX.plugins.response import get_response
+from DaisyX.modules.response import get_response
 
 
 @pbot.on_message(
