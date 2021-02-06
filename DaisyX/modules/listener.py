@@ -1,7 +1,7 @@
 import asyncio
 from pyrogram import filters
 from DaisyX import pbot
-from chatbot.plugins.response import get_response
+from DaisyX.plugins.response import get_response
 
 
 @pbot.on_message(
