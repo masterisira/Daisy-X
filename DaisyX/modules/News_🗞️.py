@@ -1,5 +1,3 @@
-
-
 __help__ = """
  - /news <country code> <LanguageCode>: Returns today's American News Headlines (ONLY WORKS IN PM)
 **Example:**

@@ -1,5 +1,3 @@
-
-
 __help__ = """
 **New Welcome System**
 **☆ With chapta ☆**
