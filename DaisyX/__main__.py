@@ -63,9 +63,9 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [𝓔𝓭𝔀𝓪𝓻𝓭 𝓚𝓮𝓷𝔀𝓪𝔂](https://telegra.ph/file/e4888d7e2d90d7d4e70da.png)
+𝐻𝑒𝓎 𝒯𝒽𝑒𝓇𝑒, I'm [𝓔𝓭𝔀𝓪𝓻𝓭 𝓚𝓮𝓷𝔀𝓪𝔂](https://telegra.ph/file/e4888d7e2d90d7d4e70da.png)
 
-I am an  Group Managing Bot and I will help in managing your group
+𝕴 𝖆𝖒 𝖆𝖓  𝕲𝖗𝖔𝖚𝖕 𝕸𝖆𝖓𝖆𝖌𝖎𝖓𝖌 𝕭𝖔𝖙 🤖🤖𝖆𝖓𝖉 𝕴 𝖜𝖎𝖑𝖑 𝖍𝖊𝖑𝖕 𝖎𝖓 𝖒𝖆𝖓𝖆𝖌𝖎𝖓𝖌 𝖞𝖔𝖚𝖗 𝖌𝖗𝖔𝖚𝖕
 
 ✪ Make sure you read *INFO* Section Below ✪ 
 """
