@@ -63,9 +63,9 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [𝓓𝓪𝓲𝓼𝔂 𝓧](https://telegra.ph/file/473cc17913393959e0667.jpg)
+Hello there, I'm [𝓔𝓭𝔀𝓪𝓻𝓭 𝓚𝓮𝓷𝔀𝓪𝔂](https://telegra.ph/file/e4888d7e2d90d7d4e70da.png)
 
-I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
+I am an  Group Managing Bot and I will help in managing your group
 
 ✪ Make sure you read *INFO* Section Below ✪ 
 """
@@ -79,14 +79,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Daisy to your group 💫", url="t.me/daisyXBot?startgroup=true"
+            text="💫 Add 𝐸𝒹𝓌𝒶𝓇𝒹 to your group 💫", url="t.me/sledward_bot?startgroup=true"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/473cc17913393959e0667.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/3bb54232d65b42d7a288a.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -101,7 +101,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Inuka](t.me/InukaASiTH),[Jason](t.me/imjanindu),"""
+Support them  [𝓘𝓼𝓲𝓻𝓪](@IsiRAPiumaTH)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
